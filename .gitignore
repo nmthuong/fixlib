@@ -1,0 +1,4 @@
+fixlib.egg-info
+*.pyc
+dist
+.coverage
